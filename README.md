@@ -20,7 +20,7 @@ This project is a clone of the Amazon website, created using HTML, CSS, and Java
 - Dynamic content loading using JavaScript.
 
 ## Demo
-![Demo Image](gallery/demo-image.jpg) <!-- Replace this with an actual demo image link if you have one -->
+![Demo Image](gallery/demo-image.png)
 
 ## Technologies Used
 - **HTML5** for the structure.
